@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: gayathri315/gayisonu5:gayi
+        image: gayathri315/gayisonu5:4
         ports:
         - containerPort: 8080
 
